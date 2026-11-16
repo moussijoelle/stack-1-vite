@@ -1,27 +1,26 @@
-# Stack 1 — Vite (arrancada)
+# Stack 1 — primer Vite
 
-Página mínima de arranque del Stack 1 con Vite: saludo y un botón.
+Página mínima para arrancar el Stack 1 con Vite: un saludo y un botón.
 
 ## Qué hace
 
 - Título “Hola Stack 1”
 - Botón “Empezar”
-- Estilos del build de Vite
+- Estilos del build
 
 ## Cómo probarlo
 
-Abre `index.html` o la demo (no hace falta instalar nada para ver el resultado publicado).
+Abre `index.html` o la demo publicada.
 
 Demo: https://moussijoelle.github.io/stack-1-vite/
 
 ## Cómo lo construí
 
-- Proyecto Vite compilado (`assets/*.js` y `assets/*.css`)
-- Markup en `index.html`
+Vite compilado (`assets/`). Sirve como plantilla base del stack.
 
 ## Cómo verificarlo
 
-Sin tests. Abro la demo y miro que carguen título, botón y estilos.
+Que carguen tipografía, botón y que no haya errores en consola.
 
 ---
 
